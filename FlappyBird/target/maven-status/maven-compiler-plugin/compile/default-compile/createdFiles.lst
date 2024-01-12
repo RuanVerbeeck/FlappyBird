@@ -1,0 +1,13 @@
+be\inf1\flappybird\MapFXMLController.class
+flappybird\model\BuisBoven.class
+flappybird\model\Map.class
+be\inf1\flappybird\MapFXMLController$1.class
+flappybird\view\BuisBovenView.class
+flappybird\view\ScoreView.class
+flappybird\model\BuisOnder.class
+flappybird\view\BuisOnderView.class
+module-info.class
+be\inf1\flappybird\App.class
+flappybird\view\BirdView.class
+flappybird\view\MapView.class
+flappybird\model\Bird.class
